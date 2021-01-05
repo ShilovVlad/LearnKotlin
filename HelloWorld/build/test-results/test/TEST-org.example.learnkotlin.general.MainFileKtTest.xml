@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.learnkotlin.general.MainFileKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-05T16:59:46" hostname="casey" time="0.018">
+  <properties/>
+  <testcase name="someTest" classname="org.example.learnkotlin.general.MainFileKtTest" time="0.018"/>
+  <system-out><![CDATA[Contract # 123 by 2020-12-25 with OOO Primer
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
